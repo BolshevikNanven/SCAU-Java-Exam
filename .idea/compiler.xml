@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ex105" />
+        <module name="Ex303" />
+        <module name="Ex402" />
+        <module name="Ex104" />
+        <module name="Ex302" />
+        <module name="Ex103" />
+        <module name="Ex301" />
+        <module name="Ex102" />
+        <module name="Ex109" />
+        <module name="Ex108" />
+        <module name="Ex107" />
+        <module name="Ex106" />
+        <module name="Ex205" />
+        <module name="Ex304" />
+        <module name="Ex110" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
